@@ -46,7 +46,7 @@ pub fn solve() {
         p1_time.as_nanos() as f32 / 1000.0
     );
     println!(
-        "Part 1 answer: \x1b[92m{}\x1b[0m. Took ~{} microseconds.",
+        "Part 2 answer: \x1b[92m{}\x1b[0m. Took ~{} microseconds.\n",
         p2,
         p2_time.as_nanos() as f32 / 1000.0
     );
