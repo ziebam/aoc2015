@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    aoc2015::day1::solve();
 }
